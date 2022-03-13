@@ -25,7 +25,7 @@
 
 ### I'm writing on ...
 
-[TYPE AREA](http://www.callmelare.cn/blog)
+[Blog](http://blog.callmelare.cn)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CALLMELARE)](https://github.com/anuraghazra/github-readme-stats)
 
