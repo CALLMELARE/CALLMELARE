@@ -1,4 +1,4 @@
-:man_student: Hi there !
+Hi there !
 
 ### I'm using ...
 
