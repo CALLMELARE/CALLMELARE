@@ -7,8 +7,9 @@ Hi there !
 <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img src="https://img.icons8.com/color/50/000000/typescript.png"/>
 <img src="https://img.icons8.com/color/50/000000/python.png"/>
+<img src="https://img.icons8.com/color/48/000000/golang.png"/>
 <img src="https://img.icons8.com/color/48/000000/vue-js.png"/> 
-<img src="https://img.icons8.com/color/50/000000/react-native.png"/>
+<img src="https://img.icons8.com/color/50/000000/react.png"/>
 <img src="https://img.icons8.com/color/50/000000/sass.png"/>
 </div>
 
@@ -16,7 +17,6 @@ Hi there !
 ### I'm learning ...
 
 <div style="display:flex">
-<img src="https://img.icons8.com/color/48/000000/golang.png"/>
 <img src="https://img.icons8.com/color/50/000000/django.png"/>
 <img src="https://img.icons8.com/color/50/000000/mysql-logo.png"/>
 <img src="https://img.icons8.com/color/50/000000/arduino.png"/>
