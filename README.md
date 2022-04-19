@@ -9,7 +9,7 @@ Hi there !
 <img src="https://img.icons8.com/color/50/000000/python.png"/>
 <img src="https://img.icons8.com/color/48/000000/golang.png"/>
 <img src="https://img.icons8.com/color/48/000000/vue-js.png"/> 
-<img src="https://img.icons8.com/color/50/000000/react.png"/>
+<img src="https://img.icons8.com/officel/40/000000/react.png"/>
 <img src="https://img.icons8.com/color/50/000000/sass.png"/>
 </div>
 
