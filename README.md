@@ -19,6 +19,7 @@ Hi there !
 <div style="display:flex">
 <img src="https://img.icons8.com/color/50/000000/django.png"/>
 <img src="https://img.icons8.com/color/50/000000/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 <img src="https://img.icons8.com/color/50/000000/arduino.png"/>
 <img src="https://img.icons8.com/ios-filled/50/000000/webgl.png"/>
 <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
