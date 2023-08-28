@@ -1,5 +1,7 @@
 Hi there !
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CALLMELARE)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Languages
 
 <p>
@@ -21,7 +23,6 @@ Hi there !
 <img alt="Static Badge" src="https://img.shields.io/badge/Redux-lare?style=flat-square&logo=redux&logoColor=white&labelColor=%23764ABC&color=%23764ABC">
 <img alt="Static Badge" src="https://img.shields.io/badge/Redux%20Saga-lare?style=flat-square&logo=reduxsaga&logoColor=white&labelColor=%23999999&color=%23999999">
 <img alt="Static Badge" src="https://img.shields.io/badge/Mobx-lare?style=flat-square&logo=mobx&logoColor=white&labelColor=%23FF9955&color=%23FF9955">
-
 </p>
 
 <p>
@@ -76,7 +77,6 @@ Hi there !
 <img alt="Static Badge" src="https://img.shields.io/badge/PyPI-lare?style=flat-square&logo=pypi&logoColor=white&labelColor=%233775A9&color=%233775A9">
 <img alt="Static Badge" src="https://img.shields.io/badge/GoPkg-lare?style=flat-square&logo=go&logoColor=white&labelColor=%23027d9c&color=%23027d9c">
 <img alt="Static Badge" src="https://img.shields.io/badge/Composer-lare?style=flat-square&logo=composer&logoColor=white&labelColor=%23885630&color=%23885630">
-
 </p>
 
 ### Cross-platform
@@ -93,18 +93,18 @@ Hi there !
 <img alt="Static Badge" src="https://img.shields.io/badge/Windows-lare?style=flat-square&logo=windows&logoColor=white&labelColor=%230078D4&color=%230078D4">
 <img alt="Static Badge" src="https://img.shields.io/badge/macOS-lare?style=flat-square&logo=apple&logoColor=white&labelColor=%23000000&color=%23000000">
 <img alt="Static Badge" src="https://img.shields.io/badge/Ubuntu-lare?style=flat-square&logo=ubuntu&logoColor=white&labelColor=%23E95420&color=%23E95420">
+</p>
 
+<p>
 <img alt="Static Badge" src="https://img.shields.io/badge/Visual%20Studio-lare?style=flat-square&logo=visualstudio&logoColor=white&labelColor=%235C2D91&color=%235C2D91">
 <img alt="Static Badge" src="https://img.shields.io/badge/Visual%20Studio%20Code-lare?style=flat-square&logo=visualstudio&logoColor=white&labelColor=%23007ACC&color=%23007ACC">
 <img alt="Static Badge" src="https://img.shields.io/badge/GoLand-lare?style=flat-square&logo=goland&logoColor=white&labelColor=%23000000&color=%23000000">
 <img alt="Static Badge" src="https://img.shields.io/badge/DataGrip-lare?style=flat-square&logo=datagrip&logoColor=white&labelColor=%23000000&color=%23000000">
-
 </p>
 
 <p>
 <img alt="Static Badge" src="https://img.shields.io/badge/FileZilla-lare?style=flat-square&logo=filezilla&logoColor=white&labelColor=%23BF0000&color=%23BF0000">
 <img alt="Static Badge" src="https://img.shields.io/badge/Postman-lare?style=flat-square&logo=postman&logoColor=white&labelColor=%23FF6C37&color=%23FF6C37">
-
 </p>
 
 ### Others
@@ -118,15 +118,8 @@ Hi there !
 <img alt="Static Badge" src="https://img.shields.io/badge/Lerna-lare?style=flat-square&logo=lerna&logoColor=white&labelColor=%239333EA&color=%239333EA">
 <img alt="Static Badge" src="https://img.shields.io/badge/Chrome%20Extension-lare?style=flat-square&logo=googlechrome&logoColor=white&labelColor=%234285F4&color=%234285F4">
 <img alt="Static Badge" src="https://img.shields.io/badge/Hexo-lare?style=flat-square&logo=hexo&logoColor=white&labelColor=%230E83CD&color=%230E83CD">
-
 </p>
 
 ## My blog
 
 [Blog](http://blog.callmelare.cn)
-
-## Something else ...
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CALLMELARE)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CALLMELARE&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
