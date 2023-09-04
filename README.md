@@ -112,7 +112,7 @@ Hi there !
 <img alt="Static Badge" src="https://img.shields.io/badge/Nginx-lare?style=flat-square&logo=nginx&logoColor=white&labelColor=%23009639&color=%23009639">
 <img alt="Static Badge" src="https://img.shields.io/badge/Docker-lare?style=flat-square&logo=docker&logoColor=white&labelColor=%232496ED&color=%232496ED">
 <img alt="Static Badge" src="https://img.shields.io/badge/WebAssembly-lare?style=flat-square&logo=webassembly&logoColor=white&labelColor=%23654FF0&color=%23654FF0">
-<img alt="Static Badge" src="https://img.shields.io/badge/Jinkins-lare?style=flat-square&logo=jenkins&logoColor=white&labelColor=%23D24939&color=%23D24939">
+<img alt="Static Badge" src="https://img.shields.io/badge/Jenkins-lare?style=flat-square&logo=jenkins&logoColor=white&labelColor=%23D24939&color=%23D24939">
 <img alt="Static Badge" src="https://img.shields.io/badge/Lerna-lare?style=flat-square&logo=lerna&logoColor=white&labelColor=%239333EA&color=%239333EA">
 <img alt="Static Badge" src="https://img.shields.io/badge/Chrome%20Extension-lare?style=flat-square&logo=googlechrome&logoColor=white&labelColor=%234285F4&color=%234285F4">
 <img alt="Static Badge" src="https://img.shields.io/badge/Hexo-lare?style=flat-square&logo=hexo&logoColor=white&labelColor=%230E83CD&color=%230E83CD">
