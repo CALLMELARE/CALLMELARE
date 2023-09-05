@@ -60,6 +60,7 @@ Hi there !
 <p>
 <img alt="Static Badge" src="https://img.shields.io/badge/Django-lare?style=flat-square&logo=django&logoColor=white&labelColor=%23092E20&color=%23092E20">
 <img alt="Static Badge" src="https://img.shields.io/badge/Django%20REST%20framework-lare?style=flat-square&logo=django&logoColor=white&labelColor=%23a30100&color=%23a30100">
+<img alt="Static Badge" src="https://img.shields.io/badge/Flask-lare?style=flat-square&logo=flask&logoColor=white&labelColor=%23092E20&color=%23092E20">
 <img alt="Static Badge" src="https://img.shields.io/badge/Gin-lare?style=flat-square&logo=go&logoColor=white&labelColor=%233276d9&color=%233276d9">
 <img alt="Static Badge" src="https://img.shields.io/badge/Gorm-lare?style=flat-square&logo=go&logoColor=white&labelColor=%2337b6ff&color=%2337b6ff">
 </p>
